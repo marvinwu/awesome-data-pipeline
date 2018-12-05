@@ -15,7 +15,7 @@ A curated list of awesome data pipeline related resource.
 * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 
 
-## Data Pipeline Tools:
+## Tooling:
 
 ### ETL
 
